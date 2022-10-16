@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yMaduv
+- 👋 Hi, I’m Yoko
 - 👀 I’m interested in Dev Software, Web Design, Art, Design Games.
 - 🌱 I’m currently learning Java and UI/UX Design.
 - 💞️ Also my hobbies are read books, do drawings and tattooing.
